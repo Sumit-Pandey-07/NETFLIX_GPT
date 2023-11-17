@@ -68,7 +68,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash[
-https://github.com/Sumit-Pandey-07/NETFLIX_GPT]
+https://github.com/Sumit-Pandey-07/NETFLIX_GPT
 ```
 
 Go to the project directory
