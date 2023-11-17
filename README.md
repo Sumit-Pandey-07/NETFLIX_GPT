@@ -1,10 +1,10 @@
-<div align='center'>
-
-<img src="https://i.ibb.co/KFR5NRY/md-login.png" alt="logo" width="800" height= />
-
 <h1>MOVIES GPT</h1>
 <p>The MOVIES-GPT App is an AI-driven platform that enhances the Netflix experience. It leverages OpenAI's GPT-3.5 model to provide personalized content recommendations .This project is for Netflix enthusiasts seeking a more engaging and customized streaming experience. It empowers users to explore content effortlessly, engage in natural language interactions, and gain a deeper understanding of their favorite shows and movies. Whether you're a seasoned Netflix user or just starting your streaming journey, this app is designed to make your entertainment experience more enjoyable and enriching.</p>
 
+
+<div align='center'>
+
+<img src="https://i.ibb.co/KFR5NRY/md-login.png" alt="logo" width="800" height= />
 
 <h4> <a href=https://movies-gpt.netlify.app/>View Demo</a> <span> · </span> <a href="https://docs.google.com/document/d/1Muefsocp5KR8cZtmdjgNcY3DQHNFGZIYZ6G1c6BRvGg/edit?usp=sharing"> High Level Design </a> <span>  · </span> <a href="https://docs.google.com/document/d/13_4E29XlWuXX90MhpUhNrjjClzJthUMIwcBSlA13YEc/edit?usp=sharing"> Low Level Design </a> <span>  · </span> <a href="https://github.com/gyandeeparyan/netflix-gpt/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/gyandeeparyan/netflix-gpt/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/gyandeeparyan/netflix-gpt/issues"> Request Feature </a> </h4>
 
@@ -43,14 +43,6 @@
 - TMDB API
 - Memoisation
 
-### :art: Color Reference
-
-| Color           | Hex                                                              |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color   | ![#E50914](https://via.placeholder.com/10/E50914?text=+) #E50914 |
-| Secondary Color | ![#0f0d0e](https://via.placeholder.com/10/0f0d0e?text=+) #0f0d0e |
-| Accent Color    | ![#fcba28](https://via.placeholder.com/10/fcba28?text=+) #fcba28 |
-| Text Color      | ![#fff](https://via.placeholder.com/10/fff?text=+) #fff          |
 
 ### :key: Environment Variables
 
@@ -105,14 +97,6 @@ To deploy this project run
 ```bash
 firebase deploy
 ```
-
-## :wave: Contributing
-
-<a href="https://github.com/gyandeeparyan/netflix-gpt/graphs/contributors"> <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" /> </a>
-
-Contributions are always welcome!
-
-see `contributing.md` for ways to get started
 
 ### :scroll: Code of Conduct
 
