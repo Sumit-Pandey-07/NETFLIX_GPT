@@ -6,7 +6,7 @@
 
 <img src="https://i.ibb.co/KFR5NRY/md-login.png" alt="logo" width="800" height= />
 
-<h4> <a href=https://movies-gpt.netlify.app/>View Demo</a> <span> · </span> <a href="https://docs.google.com/document/d/1Muefsocp5KR8cZtmdjgNcY3DQHNFGZIYZ6G1c6BRvGg/edit?usp=sharing"> High Level Design </a> <span>  · </span> <a href="https://docs.google.com/document/d/13_4E29XlWuXX90MhpUhNrjjClzJthUMIwcBSlA13YEc/edit?usp=sharing"> Low Level Design </a> <span>  · </span> <a href="https://github.com/gyandeeparyan/netflix-gpt/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/gyandeeparyan/netflix-gpt/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/gyandeeparyan/netflix-gpt/issues"> Request Feature </a> </h4>
+<h4> <a href=https://movies-gpt.netlify.app/>View Demo</a> <span> · </span> <a href="https://docs.google.com/document/d/1Muefsocp5KR8cZtmdjgNcY3DQHNFGZIYZ6G1c6BRvGg/edit?usp=sharing"> High Level Design </a> <span>  · </span> <a href="https://docs.google.com/document/d/13_4E29XlWuXX90MhpUhNrjjClzJthUMIwcBSlA13YEc/edit?usp=sharing"> Low Level Design </a> <span>·
 
 </div>
 
